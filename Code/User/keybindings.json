@@ -1,0 +1,11 @@
+// 将键绑定放在此文件中以覆盖默认值auto[]
+[
+    {
+        "key": "cmd+;",
+        "command": "editor.action.reindentselectedlines"
+    },
+    {
+        "key": "ctrl+cmd+;",
+        "command": "editor.action.reindentlines"
+    }
+]
